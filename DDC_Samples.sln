@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDevign.CloudApps.Samples.Mailgun.Tests", "IDevign.CloudApps.Samples.Mailgun.Tests\IDevign.CloudApps.Samples.Mailgun.Tests.csproj", "{0F513072-4E62-4473-8FE3-D8251D5A94D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDevign.CloudApps.Samples.RavenHq.Tests", "IDevign.CloudApps.Samples.RavenHq.Tests\IDevign.CloudApps.Samples.RavenHq.Tests.csproj", "{B3A57D8E-7978-4F80-BF15-2287F82FA16A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDevign.CloudApps.Samples.Raygun.Tests", "IDevign.CloudApps.Samples.Raygun.Tests\IDevign.CloudApps.Samples.Raygun.Tests.csproj", "{C2A0155E-A3EA-4885-9F7F-F6A3A58944C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDevign.CloudApps.Samples.RestSharp.Tests", "IDevign.CloudApps.Samples.RestSharp.Tests\IDevign.CloudApps.Samples.RestSharp.Tests.csproj", "{583EBC42-7EA0-40D6-AD34-89EEFFEEC51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F513072-4E62-4473-8FE3-D8251D5A94D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F513072-4E62-4473-8FE3-D8251D5A94D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F513072-4E62-4473-8FE3-D8251D5A94D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F513072-4E62-4473-8FE3-D8251D5A94D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3A57D8E-7978-4F80-BF15-2287F82FA16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A57D8E-7978-4F80-BF15-2287F82FA16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A57D8E-7978-4F80-BF15-2287F82FA16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A57D8E-7978-4F80-BF15-2287F82FA16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A0155E-A3EA-4885-9F7F-F6A3A58944C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A0155E-A3EA-4885-9F7F-F6A3A58944C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A0155E-A3EA-4885-9F7F-F6A3A58944C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A0155E-A3EA-4885-9F7F-F6A3A58944C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583EBC42-7EA0-40D6-AD34-89EEFFEEC51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583EBC42-7EA0-40D6-AD34-89EEFFEEC51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583EBC42-7EA0-40D6-AD34-89EEFFEEC51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583EBC42-7EA0-40D6-AD34-89EEFFEEC51A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
